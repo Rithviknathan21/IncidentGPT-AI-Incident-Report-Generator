@@ -54,6 +54,7 @@ This modular design mirrors **enterprise micro-tooling patterns** used in intern
 
 ## 📁 Project Structure
 
+```
 IncidentGPT-AI-Incident-Report-Generator/
 ├── incident_generator.py # Incident simulation & severity modeling
 ├── report_builder.py # Enterprise-style incident & RCA formatting
@@ -61,6 +62,7 @@ IncidentGPT-AI-Incident-Report-Generator/
 ├── sample_reports/ # Generated postmortem examples
 │ ├── incident_001.md
 │ └── incident_002.md
+```
 
 
 
