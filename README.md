@@ -85,6 +85,7 @@ pip install gradio
 python app.py
  Access the application at:
  http://127.0.0.1:7860
+ ```
 
  ## Future Enhancements
 
