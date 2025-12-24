@@ -67,6 +67,16 @@ IncidentGPT-AI-Incident-Report-Generator/
 
 
 ---
+## Why IncidentGPT?
+
+In modern SRE and DevOps environments, incident documentation is critical but often manual, inconsistent, and time-consuming.
+
+IncidentGPT addresses this by:
+- Automating enterprise-grade incident and postmortem report generation
+- Improving consistency in RCA documentation across teams
+- Reducing mean-time-to-document (MTTD) incidents
+- Enabling faster knowledge sharing and operational learning
+
 
 ## ▶️ How to Run Locally
 
@@ -75,3 +85,11 @@ pip install gradio
 python app.py
  Access the application at:
  http://127.0.0.1:7860
+
+ ## Future Enhancements
+
+- Integration with real monitoring and alerting systems (Prometheus, Datadog)
+- ML-based incident severity prediction and root cause suggestion
+- Exporting reports to PDF and Confluence-compatible formats
+- Role-based access for SRE and engineering teams
+
